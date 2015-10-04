@@ -1,0 +1,4721 @@
+[
+    {
+        "url": "https://madison.craigslist.org/apa/5241427781.html", 
+        "price": "1066", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.053874, 
+            -89.3972549
+        ], 
+        "address": "High Street, Bay Creek, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5203244105.html", 
+        "price": "1900", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5241197418.html", 
+        "price": "789", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5241022500.html", 
+        "price": "2000", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.111216, 
+            -89.3348209
+        ], 
+        "address": "Ridgeway Avenue, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240867110.html", 
+        "price": "1200", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240640240.html", 
+        "price": "1250", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240640240.html", 
+        "price": "1250", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220952893.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240476250.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237128313.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5217694071.html", 
+        "price": "1110", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0691141632653, 
+            -89.3899077755102
+        ], 
+        "address": "510, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5217693116.html", 
+        "price": "1110", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0691141632653, 
+            -89.3899077755102
+        ], 
+        "address": "510, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240164716.html", 
+        "price": "1200", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5240070772.html", 
+        "price": "630", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239959822.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.142492083751, 
+            -89.3040396559081
+        ], 
+        "address": "4654, Hayes Road, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5197134938.html", 
+        "price": "1350", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5218092026.html", 
+        "price": "1869", 
+        "bath": "2", 
+        "beds": "4", 
+        "coords": [
+            43.0674798635346, 
+            -89.3883151899533
+        ], 
+        "address": "527, West Wilson Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202464254.html", 
+        "price": "620", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235769554.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235774761.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199538313.html", 
+        "price": "620", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235818623.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239832303.html", 
+        "price": "795", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239798084.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235257652.html", 
+        "price": "1320", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.0995093673469, 
+            -89.2590691632653
+        ], 
+        "address": "111, Alena Lane, Sprecher East, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5225544024.html", 
+        "price": "300", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5225545996.html", 
+        "price": "300", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239398349.html", 
+        "price": "1192", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0887806, 
+            -89.2774692
+        ], 
+        "address": "Apollo Way, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239396311.html", 
+        "price": "1435", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0887806, 
+            -89.2774692
+        ], 
+        "address": "Apollo Way, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231801141.html", 
+        "price": "1100", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5210687585.html", 
+        "price": "2100", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239240941.html", 
+        "price": "1300", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.117911, 
+            -89.3596299
+        ], 
+        "address": "Northwestern Avenue, Sherman, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234277611.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239117160.html", 
+        "price": "1160", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239114160.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239055212.html", 
+        "price": "450", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239062478.html", 
+        "price": "585", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239061057.html", 
+        "price": "630", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5239054433.html", 
+        "price": "630", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5210092828.html", 
+        "price": "2700", 
+        "bath": "3", 
+        "beds": "5", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238803675.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224256099.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235472280.html", 
+        "price": "1100", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.110104, 
+            -89.2986569
+        ], 
+        "address": "Kim Lane, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238671663.html", 
+        "price": "1500", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5217108230.html", 
+        "price": "962", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214437205.html", 
+        "price": "1048", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5217058872.html", 
+        "price": "2300", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.0301350143253, 
+            -89.5012015702411
+        ], 
+        "address": "6909, Tottenham Road, Five Points, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5201908729.html", 
+        "price": "1838", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0469490948508, 
+            -89.5121336437353
+        ], 
+        "address": "7522, East Village Crest Drive, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238565423.html", 
+        "price": "813", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238559169.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238556642.html", 
+        "price": "1200", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238552970.html", 
+        "price": "810", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238551204.html", 
+        "price": "1200", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238519183.html", 
+        "price": "1234", 
+        "bath": "2", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238517733.html", 
+        "price": "1100", 
+        "bath": "1.5", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238513685.html", 
+        "price": "1300", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238511865.html", 
+        "price": "1406", 
+        "bath": "2", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226348933.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238476497.html", 
+        "price": "1100", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0616486, 
+            -89.4000486
+        ], 
+        "address": "Monona Bay, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238447806.html", 
+        "price": "675", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224798293.html", 
+        "price": "825", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224740564.html", 
+        "price": "625", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.138174, 
+            -89.3946783079808
+        ], 
+        "address": "Central Wisconsin Center, Green Avenue, North Lake Mendota, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227938240.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235204755.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224720289.html", 
+        "price": "600", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215402998.html", 
+        "price": "625", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5194670907.html", 
+        "price": "840", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0947623, 
+            -89.369739
+        ], 
+        "address": "Sherman Avenue, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5194607522.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234134857.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5230660401.html", 
+        "price": "200", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199332452.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.061478, 
+            -89.3088509
+        ], 
+        "address": "South Stoughton Rd Service Road, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199358997.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.061478, 
+            -89.3088509
+        ], 
+        "address": "South Stoughton Rd Service Road, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199326866.html", 
+        "price": "1150", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5195235908.html", 
+        "price": "1100", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234144278.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1921582, 
+            -89.4515658
+        ], 
+        "address": "Madison & Main Apartments, East Main Street, Downtown, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199324041.html", 
+        "price": "960", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199315866.html", 
+        "price": "748", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233861099.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238226003.html", 
+        "price": "833", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238200697.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199889600.html", 
+        "price": "1130", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0622189, 
+            -89.3340068
+        ], 
+        "address": "Monona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5238143239.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237901980.html", 
+        "price": "1666", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234252507.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.106714369802, 
+            -89.3461247284618
+        ], 
+        "address": "2737, Commercial Avenue, Elmside, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237716288.html", 
+        "price": "767", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0650415, 
+            -89.3913231919766
+        ], 
+        "address": "SEVEN27, 727, Lorillard Court, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237718085.html", 
+        "price": "767", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0650415, 
+            -89.3913231919766
+        ], 
+        "address": "SEVEN27, 727, Lorillard Court, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237717407.html", 
+        "price": "605", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.08294393131, 
+            -89.3802687782295
+        ], 
+        "address": "720, East Gorham Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5203348915.html", 
+        "price": "1095", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0650415, 
+            -89.3913231919766
+        ], 
+        "address": "SEVEN27, 727, Lorillard Court, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212574443.html", 
+        "price": "925", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0622189, 
+            -89.3340068
+        ], 
+        "address": "Monona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5195799641.html", 
+        "price": "925", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224193048.html", 
+        "price": "525", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237550799.html", 
+        "price": "761", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237547462.html", 
+        "price": "1001", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215129571.html", 
+        "price": "925", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215132996.html", 
+        "price": "720", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224579425.html", 
+        "price": "925", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207916575.html", 
+        "price": "615", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0758612244898, 
+            -89.3959555102041
+        ], 
+        "address": "626, Langdon Street, State-Langdon, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211553149.html", 
+        "price": "920", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0758612244898, 
+            -89.3959555102041
+        ], 
+        "address": "626, Langdon Street, State-Langdon, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207919387.html", 
+        "price": "1370", 
+        "bath": "3", 
+        "beds": "4", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207917403.html", 
+        "price": "812", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0758612244898, 
+            -89.3959555102041
+        ], 
+        "address": "626, Langdon Street, State-Langdon, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5195378720.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237332372.html", 
+        "price": "1090", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213350525.html", 
+        "price": "854", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.02934495, 
+            -89.2875719178095
+        ], 
+        "address": "William McFarland Park, Marsh Road, Madison, Dane County, Wisconsin, 53558, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237303831.html", 
+        "price": "980", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237299372.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0325079220915, 
+            -89.4221198915535
+        ], 
+        "address": "2606, Ardsley Circle, Arbor Hills, Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5216596562.html", 
+        "price": "665", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237294083.html", 
+        "price": "980", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199760493.html", 
+        "price": "1120", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199734368.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5201174558.html", 
+        "price": "720", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226427560.html", 
+        "price": "833", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233073800.html", 
+        "price": "1114", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232115996.html", 
+        "price": "1305", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.108534, 
+            -89.3403939
+        ], 
+        "address": "State Highway 30, Elmside, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211974965.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0841499010574, 
+            -89.3009518430855
+        ], 
+        "address": "4713, Cottage Grove Road, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196825212.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213670090.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237061678.html", 
+        "price": "1500", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.0653063339657, 
+            -89.411389287043
+        ], 
+        "address": "1614, Adams Street, Wingra Park, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237007632.html", 
+        "price": "1500", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5237001009.html", 
+        "price": "700", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232238849.html", 
+        "price": "1325", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212395455.html", 
+        "price": "550", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0838548597282, 
+            -89.4764627352944
+        ], 
+        "address": "1715, Camus Lane, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236846887.html", 
+        "price": "890", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.02934495, 
+            -89.2875719178095
+        ], 
+        "address": "William McFarland Park, Marsh Road, Madison, Dane County, Wisconsin, 53558, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222711925.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223020378.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204286449.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214005391.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5216828676.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211758624.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204277294.html", 
+        "price": "960", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236811391.html", 
+        "price": "812", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202914361.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236775020.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5200897643.html", 
+        "price": "1118", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5200899549.html", 
+        "price": "1118", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215058917.html", 
+        "price": "1118", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236719811.html", 
+        "price": "1500", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236717527.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227497614.html", 
+        "price": "1088", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236709307.html", 
+        "price": "840", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0947623, 
+            -89.369739
+        ], 
+        "address": "Sherman Avenue, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236688227.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212874486.html", 
+        "price": "1350", 
+        "bath": "1", 
+        "beds": "4", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236640410.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220951329.html", 
+        "price": "1470", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236595444.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202090444.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "4", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202089982.html", 
+        "price": "1400", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202089372.html", 
+        "price": "1400", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202090672.html", 
+        "price": "1400", 
+        "bath": "3", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236078410.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236077967.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236077655.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236077022.html", 
+        "price": "1040", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236076791.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236058867.html", 
+        "price": "625", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.079605, 
+            -89.316166
+        ], 
+        "address": "4301, Maher Avenue, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196258551.html", 
+        "price": "665", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236044608.html", 
+        "price": "320", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1342878, 
+            -89.299513
+        ], 
+        "address": "East Washington Avenue, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5236033409.html", 
+        "price": "1500", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202395614.html", 
+        "price": "764", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1921582, 
+            -89.4515658
+        ], 
+        "address": "Madison & Main Apartments, East Main Street, Downtown, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199632176.html", 
+        "price": "1750", 
+        "bath": "2", 
+        "beds": "4", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235991217.html", 
+        "price": "652", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0823001054332, 
+            -89.3655239921866
+        ], 
+        "address": "1125, Williamson Street, Marquette, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214222977.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0430303691412, 
+            -89.4070971973767
+        ], 
+        "address": "1517, Martin Street, Town of Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235966739.html", 
+        "price": "439", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0739343093068, 
+            -89.3085713998468
+        ], 
+        "address": "1717, Blossom Lane, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235965596.html", 
+        "price": "450", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215127583.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.140864, 
+            -89.3067619
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235923867.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0399607479212, 
+            -89.4614518322383
+        ], 
+        "address": "6, Whitcomb Circle, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235913501.html", 
+        "price": "1080", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.04086, 
+            -89.464152
+        ], 
+        "address": "4929, Whitcomb Drive, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223338537.html", 
+        "price": "750", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214187604.html", 
+        "price": "716", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223331500.html", 
+        "price": "716", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235898154.html", 
+        "price": "1300", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.04086, 
+            -89.464152
+        ], 
+        "address": "4929, Whitcomb Drive, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235883723.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0442351, 
+            -89.3939484
+        ], 
+        "address": "South Park Street, Bram's Addition, Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235842860.html", 
+        "price": "1600", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.021764, 
+            -89.5107829
+        ], 
+        "address": "Santa Fe Trail, Westhaven Trails Homeowners Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5200961491.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5216689514.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5192197395.html", 
+        "price": "1700", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.140864, 
+            -89.3067619
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221755692.html", 
+        "price": "1111", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.140864, 
+            -89.3067619
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204386016.html", 
+        "price": "1020", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.08247, 
+            -89.519862
+        ], 
+        "address": "1124, North High Point Road, Wexford Village, Madison, Dane County, Wisconsin, 53717, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221166095.html", 
+        "price": "1153", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199649205.html", 
+        "price": "1050", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0835195612107, 
+            -89.356663922172
+        ], 
+        "address": "1431, Morrison Street, Marquette, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5193207471.html", 
+        "price": "1075", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232168512.html", 
+        "price": "535", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207543152.html", 
+        "price": "775", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232158064.html", 
+        "price": "775", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5225863619.html", 
+        "price": "2880", 
+        "bath": "3.5", 
+        "beds": "4", 
+        "coords": [
+            43.088714, 
+            -89.2877989
+        ], 
+        "address": "Harmony Hill Drive, Heritage Heights, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235519037.html", 
+        "price": "675", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235488910.html", 
+        "price": "1160", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202448926.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235432359.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235405139.html", 
+        "price": "626", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.138174, 
+            -89.3946783079808
+        ], 
+        "address": "Central Wisconsin Center, Green Avenue, North Lake Mendota, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235382243.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213516504.html", 
+        "price": "400", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0866877, 
+            -89.2796909
+        ], 
+        "address": "Gemini Drive, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204829977.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5192260267.html", 
+        "price": "941", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207118262.html", 
+        "price": "1333", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0705936019224, 
+            -89.3857077164474
+        ], 
+        "address": "335, West Doty Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5192801044.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235159671.html", 
+        "price": "685", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5217071650.html", 
+        "price": "1153", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207602878.html", 
+        "price": "833", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5235075466.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211528669.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0623475938251, 
+            -89.4529880249043
+        ], 
+        "address": "4446, Hillcrest Drive, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5192530633.html", 
+        "price": "750", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.062037559983, 
+            -89.4530506549455
+        ], 
+        "address": "4458, Hillcrest Drive, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5191739222.html", 
+        "price": "2200", 
+        "bath": "3.5", 
+        "beds": "4", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224539586.html", 
+        "price": "450", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.1093162052058, 
+            -89.3427111991794
+        ], 
+        "address": "905, North Oak Street, Elmside, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5189917692.html", 
+        "price": "310", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0689520874644, 
+            -89.3865501858039
+        ], 
+        "address": "420, West Wilson Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5189914154.html", 
+        "price": "310", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0689520874644, 
+            -89.3865501858039
+        ], 
+        "address": "420, West Wilson Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5189924297.html", 
+        "price": "310", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0689520874644, 
+            -89.3865501858039
+        ], 
+        "address": "420, West Wilson Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234628446.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1890937, 
+            -89.4493606357756
+        ], 
+        "address": "Waunakee Village Center, 333, South Madison Street, Coooper's Addition, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215177556.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234276016.html", 
+        "price": "960", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5216947169.html", 
+        "price": "1865", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0165254615385, 
+            -89.4930394230769
+        ], 
+        "address": "48, Waterford Circle, Maple-Prarie Neighborhood Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5208553520.html", 
+        "price": "941", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221096132.html", 
+        "price": "1200", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0624114364839, 
+            -89.452674365543
+        ], 
+        "address": "4441, Hillcrest Drive, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234068116.html", 
+        "price": "1100", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.019751646635, 
+            -89.5103208150272
+        ], 
+        "address": "3013, Cimarron Trail, Westhaven Trails Homeowners Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234066028.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0395422347221, 
+            -89.4551564844749
+        ], 
+        "address": "30, Heritage Circle, Summit Ridge, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234063852.html", 
+        "price": "650", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.051467, 
+            -89.3034409
+        ], 
+        "address": "Femrite Drive, Madison, Dane County, Wisconsin, 53527, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234060412.html", 
+        "price": "1874", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.0554556910291, 
+            -89.4547700662791
+        ], 
+        "address": "525, Charles Lane, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234055819.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0395693420943, 
+            -89.4551475724622
+        ], 
+        "address": "32, Heritage Circle, Summit Ridge, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5234055516.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1252482507095, 
+            -89.3661542192205
+        ], 
+        "address": "2502, Calypso Road, Brentwood Village, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233979539.html", 
+        "price": "1683", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.0852936, 
+            -89.3256873
+        ], 
+        "address": "Monona Drive, Elmside, Madison, Dane County, Wisconsin, 53716, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188247645.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213238229.html", 
+        "price": "1300", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.129771, 
+            -89.3082469
+        ], 
+        "address": "Columbus Lane, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204284200.html", 
+        "price": "975", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233777043.html", 
+        "price": "783", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1890937, 
+            -89.4493606357756
+        ], 
+        "address": "Waunakee Village Center, 333, South Madison Street, Coooper's Addition, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233792840.html", 
+        "price": "905", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1890937, 
+            -89.4493606357756
+        ], 
+        "address": "Waunakee Village Center, 333, South Madison Street, Coooper's Addition, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207114717.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213107935.html", 
+        "price": "1305", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0705936019224, 
+            -89.3857077164474
+        ], 
+        "address": "335, West Doty Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212147418.html", 
+        "price": "941", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233713205.html", 
+        "price": "175", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0736739, 
+            -89.4347396
+        ], 
+        "address": "University Avenue, Regent, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233715377.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0317857, 
+            -89.4700784
+        ], 
+        "address": "Tawhee Drive, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233715122.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233670377.html", 
+        "price": "1038", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5218315896.html", 
+        "price": "1132", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233550898.html", 
+        "price": "750", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233543201.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.019751646635, 
+            -89.5103208150272
+        ], 
+        "address": "3013, Cimarron Trail, Westhaven Trails Homeowners Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233542096.html", 
+        "price": "900", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0317857, 
+            -89.4700784
+        ], 
+        "address": "Tawhee Drive, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215094576.html", 
+        "price": "620", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211466031.html", 
+        "price": "480", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0851488, 
+            -89.3608694
+        ], 
+        "address": "Marquette, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5194922192.html", 
+        "price": "838", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5194919336.html", 
+        "price": "838", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199101961.html", 
+        "price": "739", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.138174, 
+            -89.3946783079808
+        ], 
+        "address": "Central Wisconsin Center, Green Avenue, North Lake Mendota, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213691281.html", 
+        "price": "739", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.138174, 
+            -89.3946783079808
+        ], 
+        "address": "Central Wisconsin Center, Green Avenue, North Lake Mendota, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233485506.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233413981.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.135231, 
+            -89.3799519
+        ], 
+        "address": "Blaine Drive, Nobel Park, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5233096850.html", 
+        "price": "1800", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.1890937, 
+            -89.4493606357756
+        ], 
+        "address": "Waunakee Village Center, 333, South Madison Street, Coooper's Addition, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221787695.html", 
+        "price": "1038", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202650429.html", 
+        "price": "1051", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232709510.html", 
+        "price": "630", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232661077.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.021018, 
+            -89.5099069
+        ], 
+        "address": "Cimarron Trail, Westhaven Trails Homeowners Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224494996.html", 
+        "price": "746", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0546347, 
+            -89.4506306
+        ], 
+        "address": "The Market, 515, South Midvale Boulevard, Westmorland, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199721032.html", 
+        "price": "1180", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5200977411.html", 
+        "price": "760", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.077082, 
+            -89.4727079
+        ], 
+        "address": "Craig Avenue, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202591223.html", 
+        "price": "760", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.077082, 
+            -89.4727079
+        ], 
+        "address": "Craig Avenue, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213421371.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222727588.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188212637.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232391963.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0690922837909, 
+            -89.4510121450643
+        ], 
+        "address": "219, North Midvale Boulevard, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196754168.html", 
+        "price": "778", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196752793.html", 
+        "price": "707", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196749266.html", 
+        "price": "784", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196757870.html", 
+        "price": "994", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196747282.html", 
+        "price": "667", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196732522.html", 
+        "price": "1507", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.129771, 
+            -89.3082469
+        ], 
+        "address": "Columbus Lane, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196745379.html", 
+        "price": "1048", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5193705607.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232306537.html", 
+        "price": "1050", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232305416.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232299651.html", 
+        "price": "1193", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213760635.html", 
+        "price": "1280", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232249647.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188616324.html", 
+        "price": "425", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0784472121212, 
+            -89.3818693333333
+        ], 
+        "address": "130, North Hancock Street, James Madison Park, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214186389.html", 
+        "price": "425", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0824788163265, 
+            -89.3791591020408
+        ], 
+        "address": "736, East Johnson Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214183858.html", 
+        "price": "300", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.0711606530612, 
+            -89.3957840408163
+        ], 
+        "address": "219, North Frances Street, State-Langdon, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214181730.html", 
+        "price": "1020", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0836531262986, 
+            -89.3774899324511
+        ], 
+        "address": "828, East Johnson Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214178527.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.0832092857143, 
+            -89.3640893061225
+        ], 
+        "address": "405, South Few Street, Marquette, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5232172103.html", 
+        "price": "1300", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188030779.html", 
+        "price": "940", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231942843.html", 
+        "price": "725", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0388868888889, 
+            -89.4985084444445
+        ], 
+        "address": "6749, Hammersley Road, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231892404.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231888433.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231879704.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0388944444444, 
+            -89.4976382222222
+        ], 
+        "address": "6725, Hammersley Road, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231878530.html", 
+        "price": "1100", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0395693420943, 
+            -89.4551475724622
+        ], 
+        "address": "32, Heritage Circle, Summit Ridge, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231822935.html", 
+        "price": "1230", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.1144878, 
+            -89.3579508
+        ], 
+        "address": "1321, Loftsgordon Avenue, Sherman, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202449638.html", 
+        "price": "1160", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5202447761.html", 
+        "price": "792", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231776812.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1005682857143, 
+            -89.3382472857143
+        ], 
+        "address": "3015, Union Street, Worthington Park, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231748487.html", 
+        "price": "1600", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5231121084.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196537896.html", 
+        "price": "1015", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0035071690126, 
+            -89.4996403968918
+        ], 
+        "address": "6749, Fairhaven Road, Stone Meadows Neighborhood Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196541056.html", 
+        "price": "1506", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0723096457803, 
+            -89.4563672753254
+        ], 
+        "address": "619, North Segoe Road, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199218345.html", 
+        "price": "750", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199107249.html", 
+        "price": "1189", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.081133, 
+            -89.37541925
+        ], 
+        "address": "10, North Livingston Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196540314.html", 
+        "price": "1281", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0723096457803, 
+            -89.4563672753254
+        ], 
+        "address": "619, North Segoe Road, Spring Park, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199104738.html", 
+        "price": "1368", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199210606.html", 
+        "price": "1144", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.0316508158493, 
+            -89.4992138073535
+        ], 
+        "address": "6805, Raymond Road, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5196537067.html", 
+        "price": "1800", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5218508753.html", 
+        "price": "1500", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.0349239, 
+            -89.5259244
+        ], 
+        "address": "Mansion Hill Avenue, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5218506823.html", 
+        "price": "1572", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.0054978, 
+            -89.512395
+        ], 
+        "address": "Sabertooth Trail, Glacier Ridge Neighborhood Association, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204166529.html", 
+        "price": "610", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.053092, 
+            -89.3990159
+        ], 
+        "address": "Fish Hatchery Road, Bay Creek, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211478233.html", 
+        "price": "825", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213292778.html", 
+        "price": "736", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207582144.html", 
+        "price": "688", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1220073, 
+            -89.3632797477419
+        ], 
+        "address": "Northside Animal Hospital, 2121, North Sherman Avenue, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5230527662.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0907992, 
+            -89.3673435
+        ], 
+        "address": "East Johnson Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5230499249.html", 
+        "price": "525", 
+        "bath": "1", 
+        "beds": "0", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5185548940.html", 
+        "price": "1153", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5230155669.html", 
+        "price": "1457", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            42.9905492, 
+            -89.5335575
+        ], 
+        "address": "City of Verona, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5229854128.html", 
+        "price": "1200", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0689133444727, 
+            -89.431848142592
+        ], 
+        "address": "2615, Mason Street, Regent, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5229722652.html", 
+        "price": "1050", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186025538.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.141736, 
+            -89.3056709
+        ], 
+        "address": "Hayes Road, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186797570.html", 
+        "price": "1400", 
+        "bath": "2.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186793394.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186800923.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "4", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186800508.html", 
+        "price": "1400", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5186801358.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5229480443.html", 
+        "price": "1250", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.062092, 
+            -89.489322
+        ], 
+        "address": "302, Nautilus Drive, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220953705.html", 
+        "price": "792", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220952140.html", 
+        "price": "1160", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228304535.html", 
+        "price": "776", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0703317142857, 
+            -89.3924874285714
+        ], 
+        "address": "543, West Mifflin Street, Mifflin West, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228279778.html", 
+        "price": "1100", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0722816, 
+            -89.3910037
+        ], 
+        "address": "Mifflin West, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228245911.html", 
+        "price": "1250", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.080041, 
+            -89.380854
+        ], 
+        "address": "130, North Blair Street, Warrens Addition, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228235495.html", 
+        "price": "787", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228223327.html", 
+        "price": "1168", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228166853.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.125231957793, 
+            -89.3661547331926
+        ], 
+        "address": "2500, Calypso Road, Brentwood Village, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228168752.html", 
+        "price": "1250", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.080041, 
+            -89.380854
+        ], 
+        "address": "130, North Blair Street, Warrens Addition, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228121568.html", 
+        "price": "1650", 
+        "bath": "2", 
+        "beds": "4", 
+        "coords": [
+            43.070246, 
+            -89.3910068333333
+        ], 
+        "address": "18, North Bassett Street, Mifflin West, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5190290299.html", 
+        "price": "2690", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0625965, 
+            -89.4040348
+        ], 
+        "address": "South Mills Street, Greenbush, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5228035372.html", 
+        "price": "1350", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.140864, 
+            -89.3067619
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5208496473.html", 
+        "price": "960", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204874690.html", 
+        "price": "1246", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204956194.html", 
+        "price": "720", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222637571.html", 
+        "price": "917", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227556106.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0322862467326, 
+            -89.4247691377674
+        ], 
+        "address": "2922, Ashford Lane, Arbor Hills, Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227554717.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0395422347221, 
+            -89.4551564844749
+        ], 
+        "address": "30, Heritage Circle, Summit Ridge, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5185078967.html", 
+        "price": "906", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1067609, 
+            -89.3353921
+        ], 
+        "address": "State Highway 30, Elmside, North Side, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227456797.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5227372019.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5181750134.html", 
+        "price": "530", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0681021, 
+            -89.3879091
+        ], 
+        "address": "West Wilson Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5179296319.html", 
+        "price": "941", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5182646314.html", 
+        "price": "1040", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5182780320.html", 
+        "price": "1129", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0935381860479, 
+            -89.3497858573282
+        ], 
+        "address": "266, Dunning Street, Elmside, Schenk-Atwood-Starkweather-Yahara, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5179296333.html", 
+        "price": "1333", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0705936019224, 
+            -89.3857077164474
+        ], 
+        "address": "335, West Doty Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5179296380.html", 
+        "price": "1305", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0705936019224, 
+            -89.3857077164474
+        ], 
+        "address": "335, West Doty Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223291174.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5180143104.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226396265.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226346072.html", 
+        "price": "1001", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226340054.html", 
+        "price": "599", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0865627227877, 
+            -89.3712329506323
+        ], 
+        "address": "1121, East Dayton Street, Tenney-Lapham, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213501221.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1423406804081, 
+            -89.3029055031006
+        ], 
+        "address": "4665, Hayes Road, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5226252368.html", 
+        "price": "750", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5183433774.html", 
+        "price": "920", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1390539, 
+            -89.3656509
+        ], 
+        "address": "Sunfield Street, Lake View Hill, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5225929838.html", 
+        "price": "1762", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5204775607.html", 
+        "price": "610", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.053092, 
+            -89.3990159
+        ], 
+        "address": "Fish Hatchery Road, Bay Creek, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5225201922.html", 
+        "price": "1500", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            42.997593, 
+            -89.4417309
+        ], 
+        "address": "Norwich Street, Wildwood South, Fitchburg, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5178309110.html", 
+        "price": "1138", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0876484, 
+            -89.2824732
+        ], 
+        "address": "Jupiter Drive, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5193067229.html", 
+        "price": "1398", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.088482, 
+            -89.4839338
+        ], 
+        "address": "University Avenue, Woodland Hills, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188244828.html", 
+        "price": "1400", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224805244.html", 
+        "price": "1215", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5189732931.html", 
+        "price": "665", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224789496.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224722139.html", 
+        "price": "1188", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224647704.html", 
+        "price": "833", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224565243.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5183458633.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5224356599.html", 
+        "price": "740", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5191631264.html", 
+        "price": "833", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5176802135.html", 
+        "price": "550", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5182901724.html", 
+        "price": "925", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223696098.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0981276938776, 
+            -89.4992644285714
+        ], 
+        "address": "2017, Coolidge Court, City of Middleton, Dane County, Wisconsin, 53562, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223679445.html", 
+        "price": "864", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0727117, 
+            -89.3802993958412
+        ], 
+        "address": "Hilton Madison Monona Terrace, East Wilson Street, First Settlement, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223490777.html", 
+        "price": "1150", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.028126042253, 
+            -89.4163438098039
+        ], 
+        "address": "70, Sunfish Court, Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223198710.html", 
+        "price": "1000", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223214559.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0759253, 
+            -89.5075438
+        ], 
+        "address": "North Westfield Road, Woodland Hills, Madison, Dane County, Wisconsin, 53717, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5201397840.html", 
+        "price": "1747", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.0501087571651, 
+            -89.4695047408683
+        ], 
+        "address": "5314, Odana Road, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223180134.html", 
+        "price": "650", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.07585, 
+            -89.392138
+        ], 
+        "address": "216, West Gilman Street, Mansion Hill, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5201401769.html", 
+        "price": "1220", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0501085722003, 
+            -89.4692833997243
+        ], 
+        "address": "5302, Odana Road, Madison, Dane County, Wisconsin, 53711, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5206107533.html", 
+        "price": "1885", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5205816490.html", 
+        "price": "1582", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.140864, 
+            -89.3067619
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223077370.html", 
+        "price": "1473", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5223068939.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.13718385, 
+            -89.3370334443057
+        ], 
+        "address": "Dane County Regional Airport, Miller Street, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222960631.html", 
+        "price": "1250", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0582808464689, 
+            -89.4006102135016
+        ], 
+        "address": "930, Haywood Drive, Preglers Addition, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5187706725.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.07571975, 
+            -89.4694812937811
+        ], 
+        "address": "University Row, 725, University Row, University Crossing, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222777435.html", 
+        "price": "1255", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.0664088, 
+            -89.3923806235448
+        ], 
+        "address": "641, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5187993826.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5222624389.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5177635364.html", 
+        "price": "1144", 
+        "bath": "1.5", 
+        "beds": "2", 
+        "coords": [
+            43.0814838, 
+            -89.4675238607885
+        ], 
+        "address": "Spring Harbor, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221662482.html", 
+        "price": "1400", 
+        "bath": "2.5", 
+        "beds": "2", 
+        "coords": [
+            43.02934495, 
+            -89.2875719178095
+        ], 
+        "address": "William McFarland Park, Marsh Road, Madison, Dane County, Wisconsin, 53558, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5215100134.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221501157.html", 
+        "price": "1040", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.104241, 
+            -89.3163949
+        ], 
+        "address": "North Stoughton Road, Madison, Dane County, Wisconsin, 53714, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5176973709.html", 
+        "price": "825", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5203108761.html", 
+        "price": "1250", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.069044, 
+            -89.4597919
+        ], 
+        "address": "Fond du Lac Trail, Hill Farms, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5183609703.html", 
+        "price": "1250", 
+        "bath": "1.5", 
+        "beds": "3", 
+        "coords": [
+            43.069044, 
+            -89.4597919
+        ], 
+        "address": "Fond du Lac Trail, Hill Farms, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5221060320.html", 
+        "price": "1500", 
+        "bath": "2", 
+        "beds": "3", 
+        "coords": [
+            43.1890937, 
+            -89.4493606357756
+        ], 
+        "address": "Waunakee Village Center, 333, South Madison Street, Coooper's Addition, Waunakee, Dane County, Wisconsin, 53597, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5205819219.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220531169.html", 
+        "price": "1051", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0910843189252, 
+            -89.2817598233657
+        ], 
+        "address": "825, Jupiter Drive, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220530631.html", 
+        "price": "749", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0910843189252, 
+            -89.2817598233657
+        ], 
+        "address": "825, Jupiter Drive, McClellan Park, Madison, Dane County, Wisconsin, 53718, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220290543.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.0560714, 
+            -89.5075943771622
+        ], 
+        "address": "West Towne Mall, Five Points, Madison, Dane County, Wisconsin, 53717, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220105284.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.129771, 
+            -89.3082469
+        ], 
+        "address": "Columbus Lane, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5220035249.html", 
+        "price": "625", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5173836877.html", 
+        "price": "795", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.073012, 
+            -89.3986815
+        ], 
+        "address": "Erik's Madison Downtown, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53706, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5219749115.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5219276121.html", 
+        "price": "1600", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.13415, 
+            -89.3156379
+        ], 
+        "address": "Portage Avenue, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5188016467.html", 
+        "price": "840", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5218057814.html", 
+        "price": "1093", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5169689196.html", 
+        "price": "1088", 
+        "bath": "1", 
+        "beds": "3", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5207583985.html", 
+        "price": "688", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.1220073, 
+            -89.3632797477419
+        ], 
+        "address": "Northside Animal Hospital, 2121, North Sherman Avenue, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5169748144.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5216426329.html", 
+        "price": "1550", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5195913617.html", 
+        "price": "962", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5169090190.html", 
+        "price": "952", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5199609735.html", 
+        "price": "1050", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.1350795, 
+            -89.3715858
+        ], 
+        "address": "North Side, Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5172740530.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5183454686.html", 
+        "price": "875", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211552235.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5171306304.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5214273294.html", 
+        "price": "950", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5171404458.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213858763.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0125177680851, 
+            -89.4999124067354
+        ], 
+        "address": "6717, East Pass, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213858763.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0125177680851, 
+            -89.4999124067354
+        ], 
+        "address": "6717, East Pass, Five Points, Madison, Dane County, Wisconsin, 53719, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213856145.html", 
+        "price": "850", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0814838, 
+            -89.4675238607885
+        ], 
+        "address": "Spring Harbor, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213851405.html", 
+        "price": "1000", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0814838, 
+            -89.4675238607885
+        ], 
+        "address": "Spring Harbor, Madison, Dane County, Wisconsin, 53705, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5167918643.html", 
+        "price": "1129", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0935381860479, 
+            -89.3497858573282
+        ], 
+        "address": "266, Dunning Street, Elmside, Schenk-Atwood-Starkweather-Yahara, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5213508625.html", 
+        "price": "860", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1055762, 
+            -89.5089287
+        ], 
+        "address": "City of Middleton, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5178887036.html", 
+        "price": "812", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.02934495, 
+            -89.2875719178095
+        ], 
+        "address": "William McFarland Park, Marsh Road, Madison, Dane County, Wisconsin, 53558, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5171309270.html", 
+        "price": "900", 
+        "bath": "1", 
+        "beds": "2", 
+        "coords": [
+            43.1288505, 
+            -89.3718224557883
+        ], 
+        "address": "Warner Park, Forster Drive, North Side, Madison, Dane County, Wisconsin, 53704, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5172701424.html", 
+        "price": "1060", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0731452352941, 
+            -89.397938
+        ], 
+        "address": "725, University Avenue, State-Langdon, Madison, Dane County, Wisconsin, 53715, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5206381483.html", 
+        "price": "1250", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5167875276.html", 
+        "price": "941", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0687339183673, 
+            -89.3904476122449
+        ], 
+        "address": "544, West Main Street, Bassett, Madison, Dane County, Wisconsin, 53703, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212259007.html", 
+        "price": "1125", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.0024346, 
+            -89.4234537
+        ], 
+        "address": "Fitchburg, Dane County, Wisconsin, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5212106168.html", 
+        "price": "800", 
+        "bath": "1", 
+        "beds": "1", 
+        "coords": [
+            43.0439936586273, 
+            -89.404067
+        ], 
+        "address": "2026, Fish Hatchery Road, Bay Creek, Madison, Dane County, Wisconsin, 53713, United States of America"
+    }, 
+    {
+        "url": "https://madison.craigslist.org/apa/5211964448.html", 
+        "price": "1240", 
+        "bath": "2", 
+        "beds": "2", 
+        "coords": [
+            43.074761, 
+            -89.3837613
+        ], 
+        "address": "Madison, Dane County, Wisconsin, United States of America"
+    }
+]

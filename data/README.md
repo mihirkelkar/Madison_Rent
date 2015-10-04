@@ -1,0 +1,1 @@
+Developed a Linear Regression Machine Learning Model to predict rents in Madison, WI based on number of baths, bedroom, sq footage, distance from UW and Capitol. Gathered datasets from scarpping RadPad.com and Madison Craigslist. Will add Deep Learning Models in the future with possibly more data. 

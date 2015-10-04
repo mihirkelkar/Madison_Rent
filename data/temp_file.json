@@ -1,0 +1,200 @@
+[
+    {
+        "url": "http://www.onradpad.com/3100171-apartment-1015-mound-st-n104-madison-wi", 
+        "price": 1545, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.065308, 
+            -89.4026982
+        ], 
+        "address": "1015 Mound St. #N104 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/875664-apartment-212-n-bassett-st-115-madison-wi", 
+        "price": 1300, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.0717267, 
+            -89.3928436
+        ], 
+        "address": "212 N. Bassett St. #115 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/875664-apartment-212-n-bassett-st-115-madison-wi", 
+        "price": 1300, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.0717267, 
+            -89.3928436
+        ], 
+        "address": "212 N. Bassett St. #115 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/3949352-apartment-1013-mound-st-h209-madison-wi", 
+        "price": 1530, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.0653079, 
+            -89.4026663
+        ], 
+        "address": "1013 Mound St. H209 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/5548581-apartment-633-w-wilson-st-madison-wi", 
+        "price": 1385, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.066013, 
+            -89.390542
+        ], 
+        "address": "633 W. Wilson St. Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/2049737-apartment-433-w-gilman-st-102-madison-wi", 
+        "price": 875, 
+        "bath": 1.0, 
+        "beds": 1, 
+        "coords": [
+            43.073891, 
+            -89.394287
+        ], 
+        "address": "433 W. Gilman St. #102 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871858-apartment-250-langdon-st-apt-1-madison-wi", 
+        "price": 1395, 
+        "bath": 1.0, 
+        "beds": 2, 
+        "coords": [
+            43.0758869, 
+            -89.394366
+        ], 
+        "address": "250 Langdon St. Apt. #1 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871859-apartment-505-w-johnson-3-madison-wi", 
+        "price": 1495, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.072101, 
+            -89.3938448
+        ], 
+        "address": "505 W. Johnson #3 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871857-apartment-450-w-gilman-apt-5-madison-wi", 
+        "price": 1825, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.07383, 
+            -89.395386
+        ], 
+        "address": "450 W. Gilman Apt. #5 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871857-apartment-450-w-gilman-apt-5-madison-wi", 
+        "price": 1825, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.07383, 
+            -89.395386
+        ], 
+        "address": "450 W. Gilman Apt. #5 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871857-apartment-450-w-gilman-apt-5-madison-wi", 
+        "price": 1825, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.07383, 
+            -89.395386
+        ], 
+        "address": "450 W. Gilman Apt. #5 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/871857-apartment-450-w-gilman-apt-5-madison-wi", 
+        "price": 1825, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.07383, 
+            -89.395386
+        ], 
+        "address": "450 W. Gilman Apt. #5 Madison, WI"
+    }, 
+    {
+        "url": "http://www.onradpad.com/2048667-apartment-1236-mound-st-1-madison-wi", 
+        "price": 1600, 
+        "bath": 1.0, 
+        "beds": 3, 
+        "coords": [
+            43.065607, 
+            -89.407037
+        ], 
+        "address": "1236 Mound St. #1 Madison, WI"
+    }
+]

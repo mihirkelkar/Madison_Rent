@@ -1,7 +1,4 @@
-"""
-Here we have used a publicly available dataset for house prices in boston to 
-display how regression works with scikit learn. I will modify this example to work for Madison later on. 
-"""
+
 from matplotlib import pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.cross_validation import KFold
